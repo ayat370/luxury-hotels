@@ -7,8 +7,7 @@ Application web de gestion d’hôtels et de réservations.
 - HTML
 - CSS
 
-⚠️ Ce projet nécessite un serveur PHP/MySQL (XAMPP, WAMP ou hébergement web).
-GitHub sert ici à la gestion du code source.
+
 
 ### Installation
 1. Cloner le repository
